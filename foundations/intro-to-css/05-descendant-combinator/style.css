@@ -1,0 +1,8 @@
+/* can use (div .text {), (.container .text {), 
+(div p {), or even (.container p {)*/
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
